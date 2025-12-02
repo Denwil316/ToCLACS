@@ -1,0 +1,1 @@
+Descripción detallada del protocolo de auto‑entrenamiento (Capa Tejera).

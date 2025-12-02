@@ -1,0 +1,1 @@
+Borrador de artículo académico (como el que ya tienes), con marco teórico, definiciones y metodología general.

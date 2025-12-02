@@ -1,0 +1,1 @@
+Explicación formal de la métrica (\Phi_{CLACS}), ejemplos de cálculo, interpretación.

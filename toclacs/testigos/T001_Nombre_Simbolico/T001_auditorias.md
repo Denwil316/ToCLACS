@@ -1,0 +1,1 @@
+Lista de frutos que esa persona ha validado, con referencia a frutos/ y registro/clacs_registro.jsonl.
